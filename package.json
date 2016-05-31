@@ -41,6 +41,6 @@
   ],
   "dependencies": {
     "chalk": "latest",
-    "documentation": "latest"
+    "documentation": "4.0.0-beta2"
   }
 }
