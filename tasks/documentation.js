@@ -34,7 +34,8 @@ module.exports = function(grunt) {
             order: options.order,
             theme: options.theme,
             name: options.name,
-            version: options.version
+            version: options.version,
+            config: options.config
         };
 
         var done = this.async(),
